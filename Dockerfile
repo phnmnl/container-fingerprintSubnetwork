@@ -11,9 +11,9 @@ MAINTAINER PhenoMeNal-H2020 Project ( phenomenal-h2020-users@googlegroups.com )
 ENV TAG_NUMBER 1.1
 
 LABEL Description="Calculates distance between metabolites in a network."
-LABEL software.version=$TAG_NUMBER
-LABEL version="1.1"
-LABEL software="PathwayEnrichment"
+LABEL software.version=1.1
+LABEL version=1.2
+LABEL software="FingerprintSubnetwork"
 LABEL website="metexplore.toulouse.inra.fr"
 LABEL tags="Metabolomics"
 
