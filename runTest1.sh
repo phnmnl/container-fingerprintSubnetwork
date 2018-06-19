@@ -7,8 +7,8 @@
 #Copyright: PhenoMeNal/INRA Toulouse 2018
 
 #Settings files
-OUTFILE1="matrix.txt"
-OUTFILE2="reactionsPath.txt"
+OUTFILE1="matrix.tsv"
+OUTFILE2="reactionsPath.json"
 
 SBML="data/recon2.v03_ext_noCompartment_noTransport.xml"
 AAM="data/recon2.v03_ext_noCompartment_noTransport_C-AAM-weights.tab"
