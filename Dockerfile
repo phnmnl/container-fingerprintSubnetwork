@@ -12,7 +12,7 @@ ENV TAG_NUMBER 1.1
 
 LABEL Description="Calculates distance between metabolites in a network."
 LABEL software.version=1.1
-LABEL version=1.2
+LABEL version=1.3
 LABEL software="FingerprintSubnetwork"
 LABEL website="metexplore.toulouse.inra.fr"
 LABEL tags="Metabolomics"

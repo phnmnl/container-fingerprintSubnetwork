@@ -1,7 +1,7 @@
 ![LOGO](Logo_Metexplore.png)
 # FingerprintSubnetwork
 
-Version: 1.2
+Version: 1.3
 
 ## Short description
 Calculates distance between metabolites in a network.
